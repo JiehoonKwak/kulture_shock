@@ -1,4 +1,4 @@
-Syncing kulture shock event list with google calendar
+### Syncing kulture shock event list with google calendar
 
 extract_newly_added_data.py
 - use `BeautifulSoup` for webscrapping
